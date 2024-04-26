@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'THICCCBOI', sans-serif;
+}
+#consultancy{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.consultancyTxt{
+    width: 40%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.consultancyTxt h6{
+    font-size: 13px ;
+    font-weight: 500;
+    color: rgb(52, 63, 82);
+    line-height: 15px;
+}
+.consultancyTxt h1{
+    font-size: 42px ;
+    line-height: 50px;
+    font-weight:700;
+    color:  rgb(52, 63, 82);
+}
+.consultancyTxt p{
+    font-size: 20px;
+    line-height:31px ;
+    font-weight:100;
+    color: rgb(33, 38, 48);
+}
+.consultancyTxt .consultancyBtn{
+    width: 65%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.consultancyTxt .consultancyBtn button{
+    padding: 10px 25px ;
+    color: rgb(255, 255, 255) ;
+    background-color:#252D6C ;
+    line-height: 29px;
+    font-size:17px ;
+    font-weight: 500;
+    border: none;
+    border-radius: 10px;
+}
+.consultancyTxt .consultancyBtn button:hover{
+    cursor: pointer;
+}
+.consultancyTxt .consultancyBtn a{
+    font-size: 17px;
+    line-height:29px ;
+    font-weight:500;
+    color:  rgb(34, 13, 78);
+    text-decoration: none;
+    border-bottom: 2px rgb(34, 13, 78) solid ;
+}
+.consultancyTxt .consultancyBtn a:hover{
+    cursor: pointer;
+}
+.container .consultancyImg{
+    width: 45%;
+}
+.container .consultancyImg img{
+    width: 100%;
+}
+#ourInstructors{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5F6F8;
+    margin: 35px 0;
+}
+#ourInstructors .container{
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0;
+   
+
+}
+#ourInstructors .container .ourInstructorsImg{
+    width: 60%;
+}
+#ourInstructors .container .ourInstructorsImg img{
+    width:100%;
+}
+#ourInstructors .container .ourInstructorsTxt{
+    width: 70%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+}
+#ourInstructors .container .ourInstructorsTxt h1{
+    font-size:32px ;
+    font-weight: 700;
+    line-height: 40px;
+    color: 
+    rgb(52, 63, 82);
+}
+#ourInstructors .container .ourInstructorsTxt  h2{
+    font-size:22px ;
+    font-weight: 500;
+    line-height: 33px;
+    color:rgb(77, 89, 108);
+}
+#ourInstructors .container .ourInstructorsTxt p{
+    font-size:18px ;
+    font-weight: 100;
+    line-height: 31px;
+    color:
+    rgb(33, 38, 48);
+}
+#ourInstructors .container .ourInstructorsTxt button{
+    padding: 13px 25px;
+    font-size:17px ;
+    font-weight: 700;
+    line-height: 29px;
+    color:
+    rgb(255, 255, 255);
+    background-color: #252D6C;
+    border-radius: 10px;
+    border: none;
+}
+#ourInstructors .container .ourInstructorsTxt button:hover{
+    cursor: pointer;
+}
+#audinece{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#audinece .container{
+    width: 85%;
+    display: flex;
+    align-items:start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#audinece .container h6{
+    font-size:174x ;
+    font-weight: 500;
+    line-height: 19px;
+    color:
+    rgb(96, 105, 123);
+}
+#audinece .container h1{
+    font-size:32px ;
+    font-weight: 400;
+    line-height: 40px;
+    color:
+    rgb(52, 63, 82);
+}
+#audinece .container p{
+    font-size:17px;
+    font-weight: 100;
+    line-height: 29px;
+    color:
+    rgb(33, 38, 48);
+}
+#audinece .container .audineceIcn{
+    width: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+
+}
+#audinece .container .audineceIcn p{
+    font-size:17px;
+    font-weight: 100;
+    line-height: 29px;
+    color:
+    rgb(33, 38, 48);
+}
+
+
+
+
+
+
+
+
+
+
+
